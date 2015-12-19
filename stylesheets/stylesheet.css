@@ -15,6 +15,12 @@ a {
   a:hover {
     text-decoration: underline; }
 
+h1 a:link { 
+  color: #ffffff;
+  text-decoration: none; }
+h1 a:hover {
+    text-decoration: underline; }
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -284,7 +290,7 @@ a {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
 
-.btn {
+.btn1 {
   -webkit-box-shadow: 6px 7px 10px #666666;
   -moz-box-shadow: 6px 7px 10px #666666;
   box-shadow: 6px 7px 10px #666666;
@@ -296,7 +302,7 @@ a {
   text-decoration: none;
 }
 
-.btn:hover {
+.btn1:hover {
   background: #3cb0fd;
   text-decoration: none;
 }

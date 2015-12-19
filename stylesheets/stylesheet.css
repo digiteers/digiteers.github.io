@@ -283,3 +283,20 @@ a {
 @media only screen and (max-width: 480px) {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
+
+.btn {
+  -webkit-box-shadow: 6px 7px 10px #666666;
+  -moz-box-shadow: 6px 7px 10px #666666;
+  box-shadow: 6px 7px 10px #666666;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  background: #d0451b;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}

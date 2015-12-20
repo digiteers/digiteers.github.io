@@ -11,10 +11,12 @@ body {
 
 h1 a:link { 
   color: white;
+  text-decoration: none;
   background-color: transparent; }
 
 h1 a:visited {
   color: #f5f5f5;
+  text-decoration: none;
   background-color: transparent; }
 
 h1 a:hover {
@@ -43,7 +45,7 @@ a:visited {
 
 a:hover {
   text-decoration: underline; 
-  border-bottom: 1px solid red;	}
+  border-bottom: 2px solid red;	}
 
 a:active { 
   color: #1e6bb8;

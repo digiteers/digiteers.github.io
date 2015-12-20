@@ -22,12 +22,12 @@ h1 a:link {
   background-color: transparent; }
 
 h1 a:visited {
-  color: lightgreen;
+  color: #999999;
   background-color: transparent; }
 
 h1 a:hover {
-  color: green;
-  background-color: black; 
+  color: black;
+  background-color: white; 
   text-decoration: underline; }
 
 h1 a:active {

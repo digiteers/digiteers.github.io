@@ -266,7 +266,10 @@ a:active {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #819198;   
+  font-size: 8px; 
+	color: #999999;
+}
 
 @media screen and (min-width: 64em) {
   .site-footer {

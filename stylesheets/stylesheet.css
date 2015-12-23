@@ -340,10 +340,10 @@ a:active {
   text-decoration: none;
 }
 
-btn a:link { color: white; }
+.btn a:link { color: white; }
   
-btn a:visited { color: white; }
+.btn a:visited { color: white; }
 
-btn a:hover { color: white; }
+.btn a:hover { color: white; }
 
-btn  a:active { color: white; }
+.btn a:active { color: white; }

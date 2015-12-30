@@ -40,12 +40,12 @@ a:link {
   border-bottom: 1px dotted red; }
 
 a:visited { 
-  color: #1e6bb8;
-  border-bottom: 1px dotted red; }
+  color: #ffffff;
+   }
 
 a:hover {
   text-decoration: underline; 
-  border-bottom: 2px solid red;	}
+  }
 
 a:active { 
   color: #1e6bb8;
